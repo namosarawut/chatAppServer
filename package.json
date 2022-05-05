@@ -9,13 +9,13 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "start" : "node index"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "engines": {
     "node": "16.x"
-    
   }
 }
